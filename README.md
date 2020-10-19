@@ -1,1 +1,1 @@
-# emotional_bot
+# encouragement_bot
